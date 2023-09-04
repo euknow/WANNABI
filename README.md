@@ -1,5 +1,4 @@
 # WANNABI
-This is a club that studies data analytics.
-
+"WANNABI" is a club of students studying data analysis.
 
 So, i can show you what we do, here!
